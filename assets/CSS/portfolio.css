@@ -42,6 +42,12 @@
 
 }
 
+body {
+  margin: 0%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-image: url("/Users/wesmora/dev/uofu/Homework/Basic-Portfolio/assets/images/paper.png");
+  line-height: 50px;
+}
 
 hr {
 color: gray;
