@@ -207,3 +207,25 @@ header{
   font-size: 24px;
 }
   
+
+.work {
+  width: 270px;
+  float: left;
+  position: relitive;
+  padding-right: 20%;  
+  Padding-top: 20%;
+
+
+}
+
+.work h3 {
+  width: 100%;
+  padding-top: 20px;
+  Padding-bottom:20px;
+}
+
+.clearfix::after {
+ content:"";
+ clear: both;
+ display: table;
+}
